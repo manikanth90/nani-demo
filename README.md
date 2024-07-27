@@ -2,7 +2,7 @@
 second entry
 <br>
 
-Stranger things
+Stranger things(episode 1)
 <br>
 cold
 
